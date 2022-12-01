@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-// import DeleteIcon from '@mui/icons-material/Delete';
+
 
 const BlogList = ({ blogs, title }) => {
   return (
